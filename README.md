@@ -145,7 +145,6 @@ Hence, CharuVidya provided a platform for faculties and students for easy access
     <p>
         <img src="images/UserDashboard.png">
     </p>
-    
     <p>
         <img src="images/VideoPlayer.png">
     </p>
